@@ -1,0 +1,23 @@
+{
+  "name": "advanced-backend",
+  "version": "1.0.0",
+  "description": "Advabced Backend code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush931/Advanced-BackEnd.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend"
+  ],
+  "author": "Ayush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayush931/Advanced-BackEnd/issues"
+  },
+  "homepage": "https://github.com/ayush931/Advanced-BackEnd#readme"
+}
